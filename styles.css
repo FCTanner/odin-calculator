@@ -36,18 +36,15 @@
 }
 
 .btn-number {
-    composes: btn;
     background-color: rgb(255, 255, 255);
     font-weight: bold;
 }
 
 .btn-config {
-    composes: btn;
     background-color: rgb(236, 236, 236);
 }
 
 .btn-operator {
-    composes: btn;
     background-color: rgb(243, 215, 92);
     font-weight: bold;
 }
